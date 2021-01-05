@@ -9,6 +9,6 @@ Im a 17 year old full stack developer with a passion for robotics and learning a
 
 ## My Favorite Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brandonzx3&repo=glap-rs-client&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brandonzx3&repo=glap-rs-client&theme=synthwave)](https://github.com/brandonzx3/glap-rs-client)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brandonzx3&repo=glap-rs-server&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brandonzx3&repo=glap-rs-server&theme=synthwave)](https://github.com/brandonzx3/glap-rs-server)
