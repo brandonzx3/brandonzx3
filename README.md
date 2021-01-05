@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**brandonzx3/brandonzx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a 17 year old full stack developer with a passion for robotics and learning abot new innovative technologies. Im proficient in Java, C#, NodeJS and learning Rust.
 
-Here are some ideas to get you started:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brandonzx3&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonzx3&hide=labview&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## My Favorite Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brandonzx3&repo=glap-rs-client&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=brandonzx3&repo=glap-rs-server&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
