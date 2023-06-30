@@ -1,3 +1,5 @@
+### [Also on Gitbab](https://gitlab.com/brandonzx3)
+
 ### Hi there 👋
 
 Im a 19 year old full stack developer with a passion for robotics and learning abot new innovative technologies. Im proficient in Java, Kotlin, C#, NodeJS and Rust.
