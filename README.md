@@ -1,4 +1,4 @@
-### [Also on Gitbab](https://gitlab.com/brandonzx3)
+### [Also on GitLab](https://gitlab.com/brandonzx3)
 
 ### Hi there 👋
 
